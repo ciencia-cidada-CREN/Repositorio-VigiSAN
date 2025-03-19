@@ -1,0 +1,311 @@
+Indicador (descrição),seleção final,Larissa,Lucia,Otavio
+01.01.01 Quantidade de famílias em situação de extrema pobreza (até 1/4 salário mínimo),sim,sim,sim,sim
+01.01.02 População em situação de rua,sim,sim,sim,sim
+01.01.03 Atendimento da população em situação de rua (%),sim,sim,sim,sim
+01.02.01 Quantidade de famílias em situação de pobreza (renda por pessoa de ⅛ até ¼ de salário-mínimo),sim,sim,sim,sim
+01.02.02 Quantidade de famílias em situação de baixa renda (renda por pessoa de ¼ até ½ salário mínimo),sim,sim,sim,sim
+01.03.01 Quantidade de famílias que recebem recursos dos programas de transferência de renda,sim,sim,sim,sim
+01.03.02 Quantidade de famílias beneficiárias do Programa Bolsa Família,sim,sim,sim,sim
+01.03.03 Valor médio do benefício do Programa Bolsa Família (R$),sim,sim,sim,sim
+"01.05.01 Pessoas afetadas por eventos climáticos extremos, atendidos pela política de assistência social",sim,sim,sim,sim
+01.05.02 Número de famílias em atendimento habitacional provisório (Auxílio Aluguel) por situação de risco e emergência,sim,sim,sim,não
+01.05.03 Famílias em atendimento habitacional provisório por situação de risco e emergência (%),sim,sim,sim,não
+"01.0a.01 Recursos financeiros externos captados em fontes internacionais, interfederativas e privadas para Assistência Social (R$)",sim,sim,sim,sim
+01.0a.02 Despesa realizada pela Prefeitura Municipal de São Paulo com a função orçamentária Assistência Social (R$),sim,sim,sim,sim
+01.0a.03 Despesa realizada pela Prefeitura Municipal de São Paulo com a função orçamentária Assistência Social (%),sim,sim,sim,sim
+02.01.01 Quantidade de alimentos doados pelo programa Banco de Alimentos (kg),sim,sim,sim,sim
+02.02.01 Déficit de altura em crianças menores de cinco anos atendidas na Atenção Primária à Saúde (%),sim,sim,sim,sim
+02.02.02 Déficit de peso em crianças menores de cinco anos atendidas na Atenção Primária à Saúde (%),sim,sim,sim,sim
+02.02.04 Percentual de aleitamento materno exclusivo atendidas na Atenção Primária à Saúde (%),sim,sim,sim,sim
+02.02.05 Proporção de nascidos vivos com peso ao nascer inferior a 2.500 gramas (%),sim,sim,sim,não
+02.0a.01 Acordos e compromissos internacionais firmados pela Prefeitura relacionados à temática de agricultura sustentável,sim,sim,sim,sim
+02.0a.03 Valores investidos direta e indiretamente por meio de cooperação internacional em produção agrícola ambientalmente sustentável no município (R$),sim,sim,sim,não
+03.02.01 Taxa de mortalidade infantil (por mil nascidos vivos),sim,sim,sim,não
+03.03.01 Percentual das pessoas vivendo com HIV diagnosticadas retidas no serviço (%),sim,sim,sim,não
+03.03.02 Percentual de pessoas vivendo com HIV diagnosticadas em tratamento com medicamentos antirretrovirais - ARV (%),sim,sim,sim,não
+03.03.03 Percentual de pessoas vivendo com HIV diagnosticadas e em tratamento com carga viral indetectável (%),sim,sim,sim,não
+03.03.05 Coeficiente de mortalidade de tuberculose (por 100 mil habitantes),não,não,sim,não
+03.03.06 Número de óbitos por hepatite C,não,não,sim,não
+"03.04.01 Taxa de mortalidade prematura (de 30 a 69 anos) pelo conjunto de quatro doenças crônicas não transmissíveis (DCNT): doenças do aparelho circulatório, câncer, diabetes e doenças respiratórias crônicas (por 100 mil habitantes da mesma faixa etária)",sim,sim,sim,não
+03.05.01 Média mensal de atendimentos nos Centros de Atenção Psicossocial Álcool e Drogas (CAPS AD),sim,sim,sim,não
+03.08.03 Cobertura populacional por equipes de Atenção Básica MSP (por 100 habitantes),sim,sim,sim,não
+03.09.01 Sentinela VigiAR – Notificação de agravos respiratórios em crianças menores de 5 anos nas unidades sentinela,não,não,não,não
+03.09.02 Sentinela VigiAR - Capacitações de profissionais da saúde para melhoria dos registros,sim,sim,não,sim
+03.09.03 VigiSolo - Monitoramento de áreas contaminadas com mudança de uso,sim,sim,sim,não
+03.09.04 VigiSolo - Monitoramento de áreas contaminadas sem mudança de uso,sim,sim,sim,não
+03.09.05 VigiSolo - Inspeções em áreas contaminadas com risco confirmado,sim,sim,sim,não
+03.09.06 VigiQuim - Monitoramento de áreas contaminadas com substâncias químicas prioritárias,sim,sim,sim,não
+03.09.07 VigiDesastres – Averiguações de impactos à saúde humana decorrentes de desastres naturais/tecnológicos,sim,sim,sim,sim
+"03.0c.01 Recursos financeiros externos captados em fontes internacionais, interfederativas e privadas para Saúde (R$)",sim,sim,sim,sim
+03.0c.02 Despesa realizada pela Prefeitura Municipal de São Paulo com a função orçamentária Saúde (R$),sim,sim,sim,sim
+04.01.01 Taxa de Universalização do Ensino Fundamental (%),não,sim,não,não
+04.01.02 Alunos por turma do ensino fundamental da rede municipal,não,não,sim,não
+04.01.03 Taxa de distorção da idade-ano para o ano no Ensino Fundamental nos anos iniciais (%),não,sim,não,não
+04.01.04 Taxa de distorção da idade-ano para o ano no Ensino Fundamental nos anos finais (%),não,sim,não,não
+04.02.01 Demanda Atendida de Vagas em Creches da Rede Municipal de Ensino (%),sim,sim,sim,não
+04.02.02 Taxa de Universalização da Educação Infantil (somente pré-escola) (%),sim,sim,sim,não
+04.04.02 Taxa de inserção no mercado de trabalho dos beneficiários dos programas de qualificação profissional da SMDET (%),sim,sim,sim,não
+04.06.01 Taxa de Analfabetismo (%),sim,sim,sim,não
+04.06.02 Número de matrículas na Educação de Jovens e Adultos (EJA) na Rede Municipal de Ensino,sim,sim,sim,sim
+04.07.01 Participação em atividades de Educação Ambiental oferecidas pela UMAPAZ (%),sim,sim,sim,sim
+04.07.02 Porcentagem de alunos com educação em tempo integral no Ensino Fundamental  – anos iniciais (%),sim,sim,sim,sim
+04.07.03 Porcentagem de alunos com educação em tempo integral no Ensino Fundamental – anos finais (%),sim,sim,sim,sim
+05.01.01 Iniciativas de promoção da inclusão e combate a discriminação contra mulheres reconhecidas pela Prefeitura de São Paulo,sim,sim,sim,não
+05.02.03 Número de acolhimentos sigilosos e provisórios para mulheres em situação de violência e para mulheres em situação de rua,sim,sim,sim,não
+"05.02.04 Meninas em acolhimento por motivo de abandono, negligência e/ou maus tratos",sim,sim,sim,não
+05.02.06 Mulheres vítimas de violência atendidas pelo Programa Tem Saída,sim,sim,sim,não
+05.02.07 Número de casos notificados de violência contra mulheres e meninas,sim,sim,sim,não
+05.02.08 Denúncias de assédio sexual em ônibus públicos municipais,sim,sim,sim,não
+05.04.02 Horas semanais dedicadas ao trabalho doméstico não remunerado por mulheres,sim,sim,sim,não
+05.04.03 Horas semanais dedicadas ao trabalho doméstico não remunerado por homens,sim,sim,sim,não
+05.05.01 Diferença percentual entre o rendimento do trabalho entre mulheres e homens (%),sim,sim,sim,não
+05.05.10 Percentual de Mulheres no comando das secretarias e subprefeituras municipais (Secretárias Titulares) (%),não,não,sim,não
+05.05.11 Percentual de Mulheres em cargos de chefia nas unidades do governo do município (%),não,não,sim,não
+05.06.01 Percentual de nascidos vivos de parturientes adolescentes pretas e pardas (%),sim,sim,sim,não
+05.06.02 Número de pessoas em terapia hormonal no processo transexualizador,sim,sim,sim,não
+06.04.06 Porcentagem de edifícios públicos municipais (Educação e Saúde) com sistemas de captação e reaproveitamento de água de chuva (%),sim,sim,sim,sim
+08.03.02 Percentual da população de 14 anos ou mais ocupada (%),sim,sim,sim,não
+08.03.05 Total de projetos desenvolvidos em equipamentos públicos que fomentam o empreendedorismo (Rede FAB LAB LIVRE SP),sim,sim,sim,não
+08.04.01 Número de parcerias formais da Prefeitura em temáticas de economia circular no município de São Paulo,sim,sim,sim,não
+08.04.02 Número de Iniciativas de Economia Circular no município de São Paulo,sim,sim,sim,não
+08.06.05 Jovens contratados pelo Programa Jovem Aprendiz,sim,sim,sim,não
+08.07.01 Crianças e adolescentes em situação irregular de trabalho infantil atendidos pelos serviços socioassistenciais,sim,sim,sim,não
+"08.07.02 Número de Crianças e adolescentes abordados em situação de trabalho infantil, por técnicos da SMADS",sim,sim,sim,não
+08.07.03 Trabalhadores resgatados residentes em situação de trabalho forçado,sim,sim,sim,não
+10.01.01 Renda real média por pessoa dos 40% mais pobres do município de São Paulo (R$),sim,sim,sim,sim
+10.01.02 Renda real média por pessoa do município de São Paulo (R$),sim,sim,sim,sim
+10.01.03 Taxa de variação da renda per capita dos 40% mais pobres da população do município de São Paulo (%),sim,sim,sim,sim
+10.01.04 Taxa de variação da renda per capita da população do município de São Paulo (%),sim,sim,sim,sim
+10.01.05 Percentual da renda média dos 40% mais pobres em relação à renda média geral do município (%),sim,sim,sim,sim
+10.02.01 Número de equipamentos municipais com Posto de Atendimento Presencial da Central de Intermediação de Libras,não,não,não,não
+10.02.02 Número de pessoas beneficiárias do Programa Transcidadania,sim,sim,sim,não
+10.02.03 Número de equipamentos públicos municipais certificados com o Selo de Acessibilidade Arquitetônica,não,não,não,não
+10.03.03 Servidores(as) efetivos(as) municipais negros(as) contratados(as) pela Lei de Cotas (%),sim,sim,sim,não
+10.07.01 Número de atendimento no Centro de Referência e Atendimento ao Imigrante (CRAI),sim,sim,sim,não
+10.07.02 Número de atendimentos no Centro de Referência para o Atendimento do Imigrante (CRAI) para regularização migratória,sim,sim,sim,não
+10.07.03 Microempreendedores Individuais de nacionalidade estrangeira,não,não,não,não
+10.07.04 Número de pessoas acolhidas (estrangeiros) nos serviços de acolhimento institucional da Secretaria Municipal de Desenvolvimento e Assistência Social,sim,sim,sim,sim
+11.01.01 Déficit habitacional em relação ao total de domicílios (%),sim,sim,sim,não
+11.01.02 Número de famílias beneficiadas por procedimentos de regularização fundiária em núcleos urbanos informais,sim,sim,sim,não
+11.01.03 Número de Unidades Habitacionais entregues (por meio de programas habitacionais e parcerias firmadas),sim,sim,sim,não
+11.01.04 Unidades Habitacionais de Interesse Social (HIS) e Mercado Popular (HMP) licenciadas,sim,sim,sim,não
+11.01.06 Número de famílias beneficiadas com obras de urbanização de assentamentos precários,sim,sim,sim,não
+11.01.07 Número estimado de domicílios em favelas,sim,sim,sim,não
+11.01.08 Total de famílias beneficiárias de Auxílio Aluguel por ano,sim,sim,sim,não
+11.01.09 Valores empenhados por ano com atendimento habitacional provisório (Auxílio Aluguel) pela PMSP,sim,sim,sim,não
+11.01.10 Tempo médio de permanência em meses no atendimento habitacional provisório dos beneficiários de Auxílio Aluguel que foram reassentados em unidade habitacional (atendimento habitacional definitivo).,sim,sim,sim,não
+11.01.11 Número de pessoas cadastradas no sistema de cadastro de demanda aberta da COHAB,sim,sim,sim,não
+11.03.01 Despesa realizada pela Prefeitura Municipal de São Paulo com a função orçamentária Habitação (%),não,não,sim,não
+"11.03.02 Participação dos recursos liquidados em infraestrutura e serviços urbanos, provisão habitacional, regularização fundiária e urbanização de favelas no total de recursos liquidados pelo Tesouro Municipal (%)",não,não,sim,não
+11.03.04 Reuniões realizadas do Conselho Municipal de Política Urbana - CMPU (%),não,não,sim,não
+11.03.05 Participação da sociedade civil em reuniões do órgão colegiado de planejamento urbano da cidade - CMPU (%),não,não,sim,não
+11.05.01 Áreas inundáveis do município de São Paulo (km²),sim,sim,sim,não
+11.05.02 Número de ocorrências atendidas – deslizamento,sim,sim,sim,não
+11.05.03 Número de ocorrências atendidas – inundação,sim,sim,sim,não
+11.05.04 Número de setores com risco geológico alto (R3) e risco geológico muito alto (R4),não,sim,não,não
+11.05.05 Número de moradias em setores de risco geológico alto ou muito alto,sim,sim,sim,não
+11.05.06 Áreas de risco geológico na cidade de São Paulo (m²),sim,sim,sim,não
+11.05.07 Número de setores com risco hidrológico alto (R3) e risco hidrológico muito alto (R4),sim,sim,sim,não
+11.05.08 Número de moradias em setores de risco hidrológico alto e muito alto,sim,sim,sim,não
+11.05.09 Áreas de risco hidrológico na cidade de São Paulo (m²),sim,sim,sim,não
+11.05.12 Solicitações de urgência recebidas pelos canais SP156 relacionadas a alagamentos e inundações,sim,sim,sim,não
+11.05.13 Solicitações recebidas pelos canais SP156 para o serviço Limpeza da via pública após enchentes ou eventos,não,não,não,não
+12.02.01 Proporção de carga horária descentralizada nas atividades de Educação Ambiental oferecidas pela CEA-UMAPAZ no município de São Paulo (%),não,não,não,sim
+12.03.01 Arrecadação de alimentos do Banco de Alimentos Municipal (kg),sim,sim,sim,sim
+12.04.01 Coleta de resíduo de saúde (t),não,não,não,sim
+12.05.01 Coleta de resíduo domiciliar no município (t),não,não,sim,não
+12.05.03 Coleta de resíduo domiciliar - coleta seletiva (t),não,não,sim,não
+12.05.13 Índice de coleta seletiva (%),não,não,sim,não
+12.08.05 Agentes públicos municipais concluintes de cursos de sustentabilidade e desenvolvimento sustentável oferecidos pela Escola Municipal de Administração Pública de São Paulo (EMASP),não,não,sim,não
+12.08.06 Número total de horas em atividades formativas que tratam das temáticas de sustentabilidade e desenvolvimento sustentável oferecidos por ano pela Escola Municipal de Administração Pública de São Paulo (EMASP),não,não,sim,não
+12.0a.01 Acordos e compromissos internacionais firmados pela Prefeitura relacionados à temática de padrões de produção e consumo sustentáveis,sim,sim,sim,não
+15.01.03 Área do MSP correspondente a Unidades de Conservação de Uso Sustentável (%),não,não,sim,não
+15.01.04 Área natural protegida no MSP (%),não,não,não,não
+15.01.05 Conselhos Gestores em Unidades de Conservação (%),não,não,sim,não
+15.01.06 Unidades de Conservação – Planos de Manejo (%),não,sim,não,não
+15.02.04 Ações em ocupações irregulares (GCM-Ambiental),sim,sim,sim,não
+15.06.01 Terras indígenas no município (%),sim,sim,sim,não
+16.01.06 Número de roubos no município,sim,sim,sim,não
+16.01.07 Número de furtos no município,não,não,sim,não
+16.02.02 Número de Adolescentes cumprindo medidas socioeducativas em meio aberto (liberdade assistida e prestação de serviços à comunidade),não,não,não,não
+16.02.03 Número de casos notificados de violência contra crianças e adolescentes,não,não,sim,não
+16.02.04 Número de Crianças e Adolescentes vítimas de violência sexual,não,não,sim,não
+16.03.01 Número de atendimentos de mediação de conflitos nas Casas de Mediação da GCM,não,não,não,não
+16.03.03 Número de Denúncias de Violações de Direitos Humanos recebidas pela Ouvidoria de Direitos Humanos,sim,sim,sim,não
+16.07.03 Percentual de órgãos municipais da Administração Direta com Conselhos com participação da sociedade civil (%),sim,sim,sim,não
+16.07.05 Percentual de Mulheres negras em cargos de chefia de unidade no governo do município (%),sim,sim,sim,não
+16.07.06 Percentual de pessoas negras em cargos de chefia de unidade no governo do município (%),sim,sim,sim,não
+16.07.07 Percentual de Pessoas com deficiência em cargos de chefia de unidade no governo do município (%),sim,sim,sim,não
+"16.08.01 Participação da cidade de São Paulo em conselhos, diretorias e cargos de liderança em instituições multilaterais internacionais e redes internacionais de cidades",não,não,sim,não
+16.08.02 Redes internacionais de cidades que São Paulo integra,sim,sim,sim,não
+16.08.03 Missões internacionais realizadas pela Prefeitura para participação em eventos promovidos por instituições do Sistema ONU e redes de cidades,sim,sim,sim,não
+16.08.04 Acordos e compromissos internacionais firmados pela Prefeitura,sim,sim,sim,não
+16.10.03 Nota média de eficiência da Administração Municipal (0 a 10) em Transparência Ativa,sim,sim,sim,não
+17.01.08 Receita Municipal Total (R$),sim,sim,sim,não
+17.03.01 Recursos estimados em Investimento Estrangeiro Direto - IED (bilhões de US$),não,não,sim,não
+17.16.01 Acordos e compromissos internacionais assumidos pela Prefeitura alinhados diretamente ao alcance dos objetivos de desenvolvimento sustentável,sim,sim,sim,não
+17.16.02 Missões internacionais realizadas pela Prefeitura para intercâmbio de experiência internacionais alinhadas diretamente ao alcance de metas dos objetivos de desenvolvimento sustentável,sim,sim,sim,não
+17.16.03 Acordos e compromissos nacionais assumidos pela Prefeitura alinhados diretamente ao alcance dos objetivos de desenvolvimento sustentável,sim,sim,sim,não
+17.17.01 Número de Organizações do Terceiro Setor com Parcerias junto à prefeitura,não,sim,não,não
+17.17.02 Organizações Sociais qualificadas no Município de São Paulo,não,sim,não,não
+Alunos da rede municipal de ensino da raça/cor amarela (%),não,não,sim,não
+Alunos da rede municipal de ensino da raça/cor indígena (%),não,não,sim,não
+Alunos da rede municipal de ensino da raça/cor parda (%),não,não,sim,não
+Alunos da rede municipal de ensino da raça/cor preta (%),não,não,sim,não
+Alunos da rede municipal de ensino do sexo feminino (%),não,não,sim,não
+Alunos da rede municipal de ensino do sexo masculino (%),não,não,sim,não
+Alunos do Ensino Fundamental que utilizam Transporte Escolar Gratuito (%),não,não,sim,não
+Atendimentos de Proteção Social Especial realizados pelo CREAS e Centro POP,sim,sim,sim,não
+Cobertura populacional estimada pela Saúde Bucal na Atenção Básica (%),sim,sim,sim,sim
+Cobertura vegetal no MSP (%),não,sim,não,não
+Cobertura vegetal per capita (m²/hab),não,sim,não,não
+Coeficiente de Gini,não,sim,não,não
+Coleta de resíduo per capita (t/ano),não,não,sim,não
+Coleta de resíduos em limpeza de boca de lobo (t),não,não,não,não
+Compatibilidade Bairro-Escola Educação Infantil municipal,sim,não,sim,sim
+Crianças atendidas na rede pública de creche (%),não,não,sim,não
+Demanda atendida de vagas em Pré-escolas da Rede Municipal de Ensino (%),não,não,sim,não
+Despesa realizada pela Prefeitura Municipal de São Paulo com a função orçamentária Agricultura (%),sim,sim,sim,sim
+Despesa realizada pela Prefeitura Municipal de São Paulo com a função orçamentária Direitos da Cidadania (%),sim,sim,sim,não
+Despesa realizada pela Prefeitura Municipal de São Paulo com a função orçamentária Educação (%),sim,sim,sim,sim
+Despesa realizada pela Prefeitura Municipal de São Paulo com a função orçamentária Previdência Social (%),não,não,sim,não
+Despesa realizada pela Prefeitura Municipal de São Paulo com a função orçamentária Relações Exteriores (%),não,não,não,não
+Despesa realizada pela Prefeitura Municipal de São Paulo com a função orçamentária Saneamento (%),sim,sim,sim,não
+Despesa realizada pela Prefeitura Municipal de São Paulo com a função orçamentária Trabalho (%),sim,sim,sim,não
+Despesa realizada pela Prefeitura Municipal de São Paulo - função orçamentária Gestão Ambiental (%),sim,sim,sim,não
+Despesa realizada pela Prefeitura Municipal de São Paulo - função orçamentária Saúde (%),sim,sim,sim,sim
+Diferença de horas semanais de trabalho doméstico não remunerado entre mulheres e homens (%),sim,sim,sim,não
+Diferença percentual entre o rendimento do trabalho entre negros e não negros (%),sim,sim,sim,não
+Domicílios com renda per capita de até 1/2 Salário Mínimo (%),sim,sim,sim,sim
+Domicílios com renda per capita de até 1/8 Salário Mínimo (%),sim,sim,sim,sim
+Empregos formais no município - Agropecuária,sim,sim,sim,não
+Empregos formais no município - Comércio,não,não,sim,não
+Empregos formais no município - Indústria,não,não,sim,não
+Empregos formais no município - Serviços,não,não,não,não
+Empregos formais no município - Total,sim,sim,sim,não
+Escolas Municipais de Ensino Fundamental que oferecem turmas em educação integral em tempo integral (7h/dia ou mais),sim,sim,sim,sim
+Estabelecimentos formais no município - Agropecuária,não,sim,não,não
+Estabelecimentos formais no município - Total,não,sim,não,não
+Estimativa de domicílios em favela (%),não,sim,não,não
+"Exportações totais (valor FOB, US$)",sim,sim,sim,não
+Idade média ao morrer (em anos),não,sim,não,não
+"Importações totais (valor FOB, US$)",não,sim,não,não
+Índice de Desenvolvimento Humano Municipal (IDHM),sim,sim,sim,sim
+Índice de Desenvolvimento Humano Municipal (IDHM) - Educação,sim,sim,sim,sim
+Índice de Desenvolvimento Humano Municipal (IDHM) - Longevidade,sim,sim,sim,sim
+Índice de Desenvolvimento Humano Municipal (IDHM) - Renda,sim,sim,sim,sim
+Índice de envelhecimento,não,sim,não,não
+Índice de Integridade,não,sim,não,não
+Investimento público per capita (R$),sim,sim,sim,não
+"Matriciamento das equipes da Atenção Básica para atenção às pessoas com sofrimento ou transtorno mental e com necessidades de saúde decorrente do uso de álcool, crack e outras drogas",não,não,não,sim
+Número acumulado de oficinas realizadas nos centros de atendimento vinculados à Secretaria de Direitos Humanos e Cidadania junto à comunidade visando a divulgação dos serviços e promoção e defesa de Direitos Humano,sim,sim,sim,não
+Número acumulado de pessoas cadastradas na profilaxia pré-exposição ao HIV (PrEP),não,não,sim,não
+Número de alunos beneficiados pelo Programa de Alimentação Escolar,sim,sim,sim,sim
+Número de atendimentos realizados pelos serviços de promoção da igualdade racial vinculados à SMDHC,não,não,sim,não
+Número de casos de notificação de violência contra pessoas idosas,não,não,não,não
+Número de equipes da Estratégia Saúde da Família (ESF) cadastradas,sim,não,sim,sim
+Número de matrículas em tempo integral nas escolas públicas municipais de Educação Infantil,não,não,não,sim
+Número de pessoas atendidas pelos Centros de Cidadania LGBT,não,não,sim,não
+Número de procedimentos coletivos de Práticas Integrativas e Complementares em Saúde (PICS),não,não,não,sim
+Número de projetos contemplados em programas de fomento da Secretaria Municipal de Cultura,não,não,não,sim
+Número de projetos em execução fomentados pelo Fundo Municipal da Criança e do Adolescente (FUMCAD),sim,sim,não,sim
+Número de Unidades Básicas de Saúde,sim,sim,sim,sim
+Ocupação das vagas de acolhimento noturno nos Centros de Atenção Psicossocial - CAPS III (%),não,sim,não,não
+Orçamento empenhado com Educação - referência mínimo constitucional e lei orgânica municipal (%),sim,sim,sim,sim
+Orçamento empenhado com Saúde - referência mínimo constitucional (%),sim,sim,sim,sim
+Participação da área com produção rural no total do Município (%),sim,sim,sim,não
+Participação das unidades de produção familiar na agricultura (%),sim,sim,sim,sim
+Participação do PIB do Município no PIB do Brasil (%),não,sim,não,não
+Participação do PIB do Município no PIB do Estado de São Paulo (%),não,sim,não,não
+Percentual de mulheres negras e indígenas em cargos chefia não titulares de unidades no governo do Município (%),não,não,sim,não
+Percentual de mulheres negras e indígenas em cargos de chefia titulares de unidades no governo do Município (%),não,não,sim,não
+Percentual de negros(as) e indígenas ocupantes de cargo de chefia não titulares unidades no governo do Município (%),não,não,sim,não
+Percentual de negros(as) e indígenas ocupantes de cargo de chefia titulares de unidades no governo do Município (%),não,não,sim,não
+População com 15 anos ou mais,sim,sim,sim,não
+População com 60 anos ou mais,sim,sim,sim,não
+População com deficiência (%),sim,sim,sim,não
+População com deficiência auditiva (%),sim,sim,sim,não
+População com deficiência mental/intelectual (%),sim,sim,sim,não
+População com deficiência motora (%),sim,sim,sim,não
+População com deficiência visual (%),sim,sim,sim,não
+População de 0 a 17 anos,sim,sim,sim,não
+População em idade ativa,sim,sim,sim,não
+População em idade escolar - 0 a 3 anos,sim,sim,sim,não
+População em idade escolar - 15 a 17 anos,sim,sim,sim,não
+População em idade escolar - 4 e 5 anos,sim,sim,sim,não
+População em idade escolar - 6 a 14 anos,sim,sim,sim,não
+"População ocupada, trabalho formal e informal (mil pessoas)",sim,sim,sim,não
+População total,sim,sim,sim,não
+População total - homens,sim,sim,sim,não
+População total - mulheres,sim,sim,sim,não
+"Produto Interno Bruto (PIB) do Município, valores reais (R$ mil)",não,não,sim,não
+Proporção de Domicílios não conectados a rede geral de Água (%),sim,sim,sim,sim
+Proporção de Domicílios não conectados a rede geral de Esgoto (%),sim,sim,sim,sim
+Proporção de empregos formais de economia criativa em gastronomia (%),sim,sim,sim,sim
+Proporção de empregos formais em economia criativa (%),sim,sim,sim,não
+Proporção de empregos formais na Agropecuária (%),sim,sim,sim,não
+Proporção de empregos formais na Agropecuária do Município em relação à Agropecuária do Estado (%),sim,sim,sim,sim
+Proporção de estabelecimentos formais de economia criativa em gastronomia (%),sim,sim,não,sim
+Proporção de internações para cirurgias eletivas dentre o total de cirurgias no Sistema Único de Saúde (%),sim,sim,sim,sim
+Proporção de internações por condições sensíveis à atenção primária do Sistema Único de Saúde (%),sim,sim,sim,sim
+Proporção de nascidos vivos de parturientes que realizaram sete ou mais consultas de pré-natal (%),sim,sim,sim,não
+Proporção de óbitos por infarto agudo do miocárdio nas internações do Sistema Único de Saúde (%),sim,sim,sim,sim
+Razão de consultas médicas básicas do Sistema Único de Saúde na população com 60 anos ou mais e a população da mesma faixa etária,sim,sim,sim,sim
+Razão de consultas médicas especializadas no Sistema Único de Saúde (SUS),sim,sim,sim,sim
+Razão de exames citopatológicos do colo do útero - Papanicolau em mulheres de 25 a 64 anos e a população da mesma faixa etária,não,não,não,não
+Razão de internações clínico-cirúrgicas de média complexidade do Sistema Único de Saúde e população residente (por 100 habitantes),sim,sim,sim,sim
+Renda Média do Emprego Formal (R$),sim,não,sim,sim
+Rendimento médio mensal dos responsáveis por domicílios (R$),não,não,sim,não
+"Rendimento médio real de todos os trabalhos, habitualmente recebido por mês (R$)",sim,sim,sim,não
+Responsáveis por domicílios com rendimento de até 1/2 Salário Mínimo (%),não,sim,não,não
+Responsáveis por domicílios com rendimento de mais de 1/2 até 1 Salário Mínimo (%),não,sim,não,não
+Responsáveis por domicílios com rendimento de mais de 1 até 2 Salários Mínimos (%),não,sim,não,não
+Responsáveis por domicílios com rendimento de mais de 2 até 3 Salários Mínimos (%),não,sim,não,não
+Responsáveis por domicílios com rendimento de mais de 3 até 5 Salários Mínimos (%),não,sim,não,não
+Responsáveis por domicílios com rendimento de mais de 5 até 10 Salários Mínimos (%),não,sim,não,não
+Responsáveis por domicílios com rendimento maior que 10 Salários Mínimos (%),não,sim,não,não
+Responsáveis por domicílios sem rendimento (%),não,sim,não,não
+Taxa de abandono escolar no Ensino Fundamental da Rede Municipal de Ensino (%),não,não,sim,não
+Taxa de abandono escolar no Ensino Médio da Rede Municipal de Ensino (%),não,não,sim,não
+Taxa de cobertura de coleta de material para exames de triagem neonatal em nascidos vivos na rede SUS (%),não,não,não,não
+Taxa de desemprego (%),sim,sim,sim,não
+Taxa de desocupação das pessoas de 14 anos ou mais de idade (%),não,sim,não,não
+Taxa de distorção idade-série no Ensino Fundamental da Rede Municipal de Ensino (%),não,não,não,não
+Taxa de distorção idade-série no Ensino Médio da Rede Municipal de Ensino (%),não,não,não,não
+Taxa de mortalidade de crianças e adolescentes por causas externas (por 100 mil na mesma faixa etária),não,não,não,não
+Taxa de mortalidade de crianças e adolescentes vítimas de agressão (por 100 mil na mesma faixa etária),não,não,sim,não
+Taxa de mortalidade de idosos por causas externas (por 100 mil na mesma faixa etária),não,não,não,não
+Taxa de mortalidade de idosos vítimas de agressão (por 100 mil na mesma faixa etária),não,não,sim,não
+Taxa de mortalidade de mulheres vítimas de agressão (por 100 mil mulheres),não,não,sim,não
+Taxa de ocorrências registradas de furto e roubo de veículos (por 100 mil hab),não,não,não,não
+Taxa de ocorrências registradas de furtos (por 100 mil hab),não,não,sim,não
+Taxa de ocorrências registradas de homicídios dolosos (por 100 mil hab),não,não,não,não
+Taxa de ocorrências registradas de roubos (por 100 mil hab),não,não,sim,não
+Taxa de ocupação dos hosteis (%),não,não,não,não
+Taxa de participação do Município de São Paulo na formalização do Microempreendedor Individual (%),não,não,não,não
+Taxa de perda primária média de consultas médicas em Unidades Básicas de Saúde (UBS) (%),não,não,não,sim
+Taxa de repetência dos alunos no Ensino Fundamental da Rede Municipal de Ensino (%),não,não,sim,não
+Taxa de repetência dos alunos no Ensino Médio da Rede Municipal de Ensino (%),não,não,sim,não
+Taxa de Universalização da Educação Básica obrigatória (%),sim,sim,sim,sim
+Taxa de Universalização da Educação Infantil (somente creche) (%),sim,sim,sim,sim
+Taxa de Universalização do Ensino Médio (%),não,sim,não,não
+Taxa média de ocupação dos hotéis nos fins de semana e feriados (%),não,não,não,não
+Tempo entre data do agendamento do procedimento e data da vaga do procedimento para Mamografia,não,não,não,não
+Tempo entre data do agendamento do procedimento e data da vaga do procedimento para Ressonância Magnética,não,não,não,não
+Tempo entre data do agendamento do procedimento e data da vaga do procedimento para Tomografia,não,não,não,não
+Tempo médio de espera para embarque nos pontos de parada dos corredores exclusivos monitorados (min),não,não,não,não
+Tempo médio de espera para exames prioritários,não,não,não,não
+Tempo médio para transferência dos usuários nos terminais inteligentes – pico da manhã (min),não,não,não,não
+Total de encaminhados nos serviços públicos de intermediação de mão de obra (CATEs),não,não,não,não
+Total de inscritos nos serviços públicos de intermediação de mão de obra (CATEs),não,não,não,não
+Total de jovens inscritos nos serviços públicos de intermediação de mão de obra (CATEs),não,não,não,não
+Total de solicitações do serviço 156,não,não,não,não
+Vagas disponíveis em programas de formação cultural continuada (por 100 mil habitantes),não,não,não,não
+"Valor adicionado bruto da Agropecuária, a preços correntes (R$ mil)",sim,sim,sim,sim
+"Valor adicionado bruto da Indústria, a preços correntes (R$ mil)",não,não,não,não
+"Valor adicionado bruto dos Serviços, a preços correntes (R$ mil)",não,não,não,não
+"Valor adicionado bruto total, a preços correntes (R$ mil)",não,não,não,não
+Valor arrecadado de dívida ativa (R$),não,não,não,não
+Velocidade comercial média dos veículos do sistema de transporte – pico manhã (km/h),não,não,não,não
+Velocidade comercial média dos veículos do sistema de transporte – pico tarde (km/h),não,não,não,não
+Vítimas de acidentes de trânsito (por 100 mil habitantes),não,não,não,não
